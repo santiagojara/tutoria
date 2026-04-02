@@ -1,8 +1,9 @@
 # TUTORIA 2626
 ## DAVID SALINAS 
+### Carrera de Software
 ## ANDRES TOASA
+### me gusta el futbol 
 ## ENRIQUE ZAMBRANO
-0979052744
+### 0979052744
 ## JUAN CARVAJAL 
-0990281712
-
+### 0990281712
